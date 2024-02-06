@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Componentes</string>
+
+    <string-array name="static_spinner_array">
+        <item>Static spinner - Item 1</item>
+        <item>Static spinner - Item 2</item>
+        <item>Static spinner - Item 3</item>
+        <item>Static spinner - Item 4</item>
+        <item>Static spinner - Item 5</item>
+    </string-array>
+</resources>
